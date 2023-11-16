@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694072287547",
+    "project_id": "maximilians-chatapp",
+    "storage_bucket": "maximilians-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694072287547:android:0ebc444394ad66b8afd71e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByEBAavErGwL0HJYaARvd6SdaCze-z3EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
